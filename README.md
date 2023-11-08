@@ -3,17 +3,17 @@
 Denna labb handlar om att använda två vanliga generiska typer inom C#. Du kommer att skapa en klass och objekt utifrån den klassen som du sedan ska hantera genom Stack och List.
 
 ## Del 1 – Stack
-Skapa en klass som heter Employee
+### Skapa en klass som heter Employee
 
 Denna klass ska ha flera egenskaper: Id, Name, Gender, Salary.
 
-Skapa en Stack med objekt: 
+### Skapa en Stack med objekt: 
 
 I Main()-metoden ska du skapa fem objekt av klassen med olika Id, Name, Gender och Salary.
 
 Skapa sedan en Stack och lägg till de fem objekten du skapat med Push().
 
-Skriv ut alla objekt i stacken: 
+### Skriv ut alla objekt i stacken: 
 
 Skriv ut alla objekt i din Stack.
 
@@ -21,7 +21,7 @@ Du kan använda en foreach-loop för att skriva ut alla element i stacken.
 
 Efter varje rad eller element ska du skriva ut hur många objekt som finns kvar i stacken.
 
-Hämta alla objekt med Pop-metoden: 
+### Hämta alla objekt med Pop-metoden: 
 
 Hämta alla objekt i stacken genom POP()-metoden och skriv ut dem.
 
@@ -29,7 +29,7 @@ Efter varje rad eller element ska du skriva ut hur många objekt som finns kvar 
 
 Lägg till alla objekt igen genom Push()-metoden.
 
-Hämta objekt med Peek-metoden: 
+### Hämta objekt med Peek-metoden: 
 
 Hämta två objekt med Peek()-metoden.
 
